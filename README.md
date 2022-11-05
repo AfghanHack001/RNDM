@@ -1,7 +1,9 @@
 
-**FB CLONING TOOL
-**installation
-**🔰 CLONE FULL OK IDZ
+#FB CLONING TOOL
+
+#installation
+
+#🔰 CLONE FULL OK IDZ
 
 pkg update
 
