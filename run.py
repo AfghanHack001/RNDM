@@ -12,12 +12,12 @@ try:
         os.system('rm -rf RNDM.py')
 except:
     pass
-os.system('rm -rf MISTYY.so ')
+os.system('rm -rf RNDM.py ')
 os.system('git pull')
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    if not os.path.isfile('MISTYY.so'):
+    if not os.path.isfile('RNDM.py'):
         os.system('curl -L https://github.com/blackteam100200/RNDM/blob/main/RNDM.py?raw=true -o RNDM.py') 
         import RNDM
     else:
