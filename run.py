@@ -1,3 +1,4 @@
-import os
-import sys
-import RNDM
+from RNDM import *
+
+first_join()
+
