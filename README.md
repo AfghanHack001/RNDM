@@ -19,6 +19,8 @@ pip install mechanize
 
 pip install bs4
 
+sh run.sh
+
 rm -rf RNDM
 
 git clone https://github.com/AfghanHack001/RNDM.git
