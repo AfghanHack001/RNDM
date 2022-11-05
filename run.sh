@@ -70,5 +70,5 @@ echo
 echo
 echo "       [√] install commando done..."
 echo
-echo "     type python Random.py to continue "
+echo "     type python RNDM.py to continue "
 echo
