@@ -1,14 +1,7 @@
-AKING
-PAID TOOLS
 
-Github
-Facebook
-Whatsapp
-
-[MR.AKING]
-FB CLONING TOOL
-installation
-🔰 CLONE FULL OK IDZ
+**FB CLONING TOOL
+**installation
+**🔰 CLONE FULL OK IDZ
 
 pkg update
 pkg upgrade
@@ -17,9 +10,8 @@ pkg install python
 pip install requests
 pip install mechanize
 pip install bs4
-rm -rf AKING
-git clone --depth=1 https://github.com/AKING110/AKING.git
-cd AKING
-python AKING.py
-This Tools is Paid
-Whatsapp
+rm -rf RNDM
+git clone https://github.com/AfghanHack001/RNDM.git
+cd RNDM
+python RNDM.py
+
